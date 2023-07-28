@@ -193,7 +193,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [linkedin](https://www.linkedin.com/in/zanedandrews/) - zaneDandrews@gmail.com
 
-Project Link: [https://github.com/zanedandrews/project-exoduse](https://github.com/zanedandrews/project-exodus)
+Project Link: [https://github.com/zanedandrews/project-exodus](https://github.com/zanedandrews/project-exodus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
